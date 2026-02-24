@@ -1,6 +1,6 @@
 # About Me 
 
-Mail → subratomandalme@gmail.com
+Mail → mail@subratomandal.com
 <br>
 <br>
 [![Website](https://img.shields.io/badge/website-1a1a1a?style=for-the-badge&logo=about.me&logoColor=white)](https://subratomandal.com/)
